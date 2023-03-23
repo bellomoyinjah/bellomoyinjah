@@ -1,16 +1,14 @@
-### Hi there 👋
+### Moyinjah - FrontEnd Developer 👋 
 
-<!--
-**bellomoyinjah/bellomoyinjah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meet Moyinjah, an experienced civil engineer turned IT professional. With almost a decade of experience in civil engineering, Moyinjah decided to make a career shift into the tech industry and has since established himself as a skilled Front End Developer.
 
-Here are some ideas to get you started:
+Moyinjah's extensive background in civil engineering has provided him with a unique perspective when it comes to problem-solving and attention to detail, which has translated well into his work in the IT industry. He has a passion for creating innovative solutions and a drive to constantly learn and adapt to new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Moyinjah has honed his skills in Front End Development through various projects and experiences. He is proficient in
+* HTML
+* CSS
+* JavaScript
+* TypeScript
+* React
+* NextJS
+and other related technologies. He also has experience with responsive design, cross-browser compatibility, and user experience design.
