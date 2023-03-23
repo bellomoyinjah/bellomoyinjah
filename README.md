@@ -11,4 +11,6 @@ Moyinjah has honed his skills in Front End Development through various projects 
 * TypeScript
 * React
 * NextJS
-and other related technologies. He also has experience with responsive design, cross-browser compatibility, and user experience design.
+and other related technologies.
+
+He also has experience with responsive design, cross-browser compatibility, and user experience design.
