@@ -14,3 +14,6 @@ Moyinjah has honed his skills in Front End Development through various projects 
 and other related technologies.
 
 He also has experience with responsive design, cross-browser compatibility, and user experience design.
+
+
+[![Moyinjah's GitHub stats](https://github-readme-stats.vercel.app/api?username=bellomoyinjah&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
